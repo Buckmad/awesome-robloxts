@@ -38,6 +38,7 @@ Curated list of packages for Roblox-TS development. These packages often follow 
 
 # Optimization
 - [Maid](https://npmx.dev/package/@rbxts/maid)
+- [Janitor](https://npmx.dev/package/@rbxts/janitor)
 
 # Print
 - [Logger](https://npmx.dev/package/@rbxts/logger)
