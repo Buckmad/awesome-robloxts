@@ -21,6 +21,7 @@ https://npmx.dev/package/@rbxts/easybullet
 https://npmx.dev/package/@rbxts/evlightning
 https://npmx.dev/package/@rbxts/fastcast
 https://npmx.dev/package/@rbxts/first-person-camera
+https://npmx.dev/package/@rbxts/http-queue
 https://npmx.dev/package/@rbxts/iris
 https://npmx.dev/package/@rbxts/janitor
 https://npmx.dev/package/@rbxts/lazy
@@ -36,6 +37,8 @@ https://npmx.dev/package/@rbxts/replicaservice
 https://npmx.dev/package/@rbxts/reflex
 https://npmx.dev/package/@rbxts/ripple
 https://npmx.dev/package/@rbxts/services
+https://npmx.dev/package/@rbxts/stacks-and-queues
+https://npmx.dev/package/@rbxts/task-queue
 https://npmx.dev/package/@rbxts/topbar-plus
 https://npmx.dev/package/@rbxts/tracer
 https://npmx.dev/package/@rbxts/ui-labs
