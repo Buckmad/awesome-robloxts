@@ -84,6 +84,7 @@ Curated list of packages for Roblox-TS development. These packages often follow 
 - [Color](https://npmx.dev/package/@rbxts/color)
 - [Date](https://npmx.dev/package/@rbxts/date)
 - [Default Map](https://npmx.dev/package/@rbxts/default-map)
+- [Extendable Resources](https://npmx.dev/package/@rbxts/extendable-resources)
 - [Deep Copy](https://npmx.dev/package/@rbxts/deepcopy)
 - [Luau Character](https://npmx.dev/package/@rbxts/luau-character)
 - [Math](https://npmx.dev/package/@rbxts/math)
