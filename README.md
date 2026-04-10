@@ -16,8 +16,8 @@ Curated list of packages for Roblox-TS development. These packages often follow 
 - [Promise Character](https://npmx.dev/package/@rbxts/promise-character)
 
 # Data Handling
-- [ProfileService](https://npmx.dev/package/@rbxts/profileservice)
 - [DataPooler](https://npmx.dev/package/@rbxts/data-pooler)
+- [ProfileService](https://npmx.dev/package/@rbxts/profileservice)
 
 # Environment
 - [RBXTS Transform Env](https://npmx.dev/package/rbxts-transform-env)
@@ -39,6 +39,10 @@ Curated list of packages for Roblox-TS development. These packages often follow 
 # Optimization
 - [Maid](https://npmx.dev/package/@rbxts/maid)
 - [Janitor](https://npmx.dev/package/@rbxts/janitor)
+
+# Players
+- [Player Module Types](https://npmx.dev/package/@rbxts/player-module-types)
+- [Player Statistics](https://npmx.dev/package/@rbxts/player-statistics)
 
 # Print
 - [Logger](https://npmx.dev/package/@rbxts/logger)
